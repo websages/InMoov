@@ -9,7 +9,7 @@ French Pouce/Index/Majeur/Annulaire/Auriculaire
   - [ ] ardiuinosupport.stl
   - [ ] cableholder1.stl
   - [ ] coverfinger1.stl
-  - [ ] ringfinger3.stl
+  - [x] ringfinger3.stl
   - [ ] robcap3V1.stl
   - [ ] robpart1.stl
   - [ ] robpart2V2.stl
