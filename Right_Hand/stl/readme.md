@@ -4,12 +4,11 @@ French Pouce/Index/Majeur/Annulaire/Auriculaire
   - [ ] Bolt_entretoise4.stl
   - [x] Index3.stl
   - [x] Majeure3.stl
-  - [ ] WristlargeV3.stl
-  - [ ] WristsmallV3.stl
+  - [x] WristlargeV3.stl
+  - [x] WristsmallV3.stl
   - [ ] ardiuinosupport.stl
   - [ ] cableholder1.stl
   - [ ] coverfinger1.stl
-  - [ ] readme.md
   - [ ] ringfinger3.stl
   - [ ] robcap3V1.stl
   - [ ] robpart1.stl
