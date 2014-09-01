@@ -16,5 +16,5 @@ French Pouce/Index/Majeur/Annulaire/Auriculaire
   - [ ] robpart3.stl
   - [ ] robpart4v2.stl
   - [ ] robpart5V2.stl
-  - [ ] thumb5.stl
+  - [x] thumb5.stl
   - [ ] topsurface4.stl
