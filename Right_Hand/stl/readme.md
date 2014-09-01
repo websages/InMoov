@@ -1,7 +1,7 @@
 French Pouce/Index/Majeur/Annulaire/Auriculaire
 
   - [ ] Auriculaire3.stl
-  - [ ] Bolt_entretoise4.stl
+  - [x] Bolt_entretoise4.stl
   - [x] Index3.stl
   - [x] Majeure3.stl
   - [x] WristlargeV3.stl
